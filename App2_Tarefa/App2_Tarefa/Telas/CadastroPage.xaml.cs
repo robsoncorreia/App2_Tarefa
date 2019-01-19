@@ -16,5 +16,10 @@ namespace App2_Tarefa.Telas
 		{
 			InitializeComponent ();
 		}
-	}
+
+        private void SalvarAction(object sender, EventArgs e)
+        {
+
+        }
+    }
 }
